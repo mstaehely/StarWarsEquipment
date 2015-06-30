@@ -1,0 +1,30 @@
+Augmented Spin Barrel	weapon	2	1750	4	1	rifle, heavyrifle	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	+1 Difficulty to Mechanics checks to maintain. Mods: 2 Damage 1, Accurate 1, Pierce 1
+Balanced Hilt	weapon	2	1500	5	1	melee	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Mods: Accurate 1, Encumbrance -1
+Bipod Mount	weapon	1	100	1	1	rifle, carbine, lightrepeater	0	0	0	0	0	0	0	-2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Blaster Actuating Module	weapon	1	500	4	1	pistol	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Mods: 2 Damage 1, 2 Pierce 1
+Bowcaster Accelerator Enhancement	weapon	1	250	4	1	bowcaster	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Cannot be purchased. Average Mechanics check to craft. Mods: 2 Damage 1, 2 Pierce 1
+Bowcaster Automatic Re-cocker	weapon	1	500	3	1	bowcaster	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	Cannot be purchased. Average Mechanics check to craft. Mods: Auto-fire
+Cortosis Weave	armor	2	10000	8	1	any	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Enhanced Optics Suite	armor	1	1750	3	1	any	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Filed Front Sight	weapon	1	25	0	1	pistol	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Grants Quick Draw Talent. +1 Difficulty to hit targets beyond Short range. Mods: -1 difficulty to conceal.
+Forearm Grip	weapon	1	250	1	1	rifle, carbine	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Reduce penalty to fire while engaged to 1 extra die. Mods: Grant Point Blank 1 Talent, Accurate 1
+Heating System	armor	1	1000	3	1	full-body	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Marksman Barrel	weapon	2	1200	4	1	rifle	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	+1 Range. Mods: 2 Accurate 1, Grants Sniper Shot Talent
+Mono-molecular Edge	weapon	1	1000	5	1	edged	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Multi-optic Sight	weapon	1	2000	3	1	ranged	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Optical Camouflage System	armor	2	5500	6	1	any	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Serrated Edge	weapon	1	50	1	1	edged	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Shortened Barrel	weapon	1	250	4	1	pistol	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Spread Barrel	weapon	2	1725	4	1	rifle, carbine	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Strength Enhancing System	armor	2	550	4	1	full-body	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Superior Armor Customization	armor	1	5000	6	1	any	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Superior Weapon Customization	weapon	1	5000	6	1	any	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Telescopic Optical Sight	weapon	1	250	1	1	pistol, rifle, heavyrifle, lightrepeater, heavyrepeater, bowcaster, missile, slugthrower	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Thermal Shielding System	armor	1	1000	3	1	full-body	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Tripod Mount	weapon	2	250	3	1	lightrepeater, heavyrepeater, missile	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Under-Barrel Flame Projector	weapon	2	3000	5	0	rifle, heavyrifle	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Under-Barrel Grenade Launcher	weapon	2	2000	5	0	rifle, heavyrifle	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vacuum Sealed	armor	1	1000	3	1	full-body	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Weapon Harness	weapon	2	500	2	1	carbine, rifle, heavyrifle, light repeater, heavyrepeater, missile	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Weapon Sling	weapon	1	100	0	1	carbine, rifle, heavyrifle, light repeater	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Weighted Head	weapon	2	250	3	1	blunt	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	

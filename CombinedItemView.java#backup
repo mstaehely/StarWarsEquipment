@@ -1,0 +1,74 @@
+import java.awt.*;
+import javax.swing.*;
+import javax.swing.text.*;
+
+public class CombinedItemView extends JPanel implements EquipmentListener{
+    private ItemList item_list;
+    private JTextPane jta, jta2;
+    private StyledDocument doc, doc2;
+    private SimpleAttributeSet center, left;
+    private Equipment combined_item;
+    
+    /**
+     * Constructs a viewer for the selected item's information.
+     * 
+     * @param item_list the ItemList object this is to be registered with.
+     */
+    public CombinedItemView(ItemList item_list){
+        
+        // Assigns the object this item list, and registers it as a listener.
+        this.item_list = item_list;
+//         this.item_list.addTextListener(this);
+        
+        // Creates two text panes, one for 'selected equipment' and the other
+        // to display the new item's statistics. Set up with border layout to get 
+        // around flow issues.
+        jta = new JTextPane();
+        jta2 = new JTextPane();
+        this.setLayout(new BorderLayout());
+        
+        
+        // Creates a styled document to allow for consistent alignment of text.
+        doc = jta.getStyledDocument();
+        doc2 = jta2.getStyledDocument();
+        center = new SimpleAttributeSet();
+        left = new SimpleAttributeSet();
+        StyleConstants.setAlignment(center, StyleConstants.ALIGN_CENTER);
+        StyleConstants.setAlignment(left, StyleConstants.ALIGN_LEFT);
+        try{
+            int length = doc.getLength();
+            doc.remove(0, doc.getLength());
+            doc.insertString(doc.getLength(), "--Selected Equipment--", null);
+            doc.setParagraphAttributes(length+1, 1, center, false);
+            
+            length = doc2.getLength();
+            doc2.remove(0, doc2.getLength());
+            doc2.insertString(doc2.getLength(), "Select an item to begin", null);
+            doc2.setParagraphAttributes(length+1, 1, left, false);
+        } catch(Exception e) {
+            System.out.println(e);
+        }
+        
+        this.add(jta, BorderLayout.NORTH);
+        this.add(jta2, BorderLayout.CENTER);
+    }
+    
+    /**
+     * Updates the panel.
+     */
+    public void update(){
+        combined_item = item_list.getCombinedItem();
+        if(item_list.getItem() == null){
+        } else {
+            try{
+                // Updates the item info whenever a new one is selected.
+                int length = doc2.getLength();
+                doc2.remove(0, doc2.getLength());
+                doc2.insertString(doc2.getLength(), combined_item.getInfo(), null);
+                doc2.setParagraphAttributes(length+1, 1, left, false);
+            } catch(Exception e) {
+                System.out.println(e);
+            }
+        }
+    }
+}

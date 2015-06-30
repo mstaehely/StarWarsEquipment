@@ -1,0 +1,57 @@
+import java.awt.*;
+import javax.swing.*;
+import javax.swing.text.*;
+
+public class EquipmentView extends JPanel implements EquipmentListener{
+    private ItemList item_list;
+    private JTextPane jta, jta2;
+    private StyledDocument doc, doc2;
+    private SimpleAttributeSet center, left;
+    private Equipment item;
+    public EquipmentView(ItemList item_list){
+        this.item_list = item_list;
+        this.item_list.addTextListener(this);
+        
+        jta = new JTextPane();
+        jta2 = new JTextPane();
+        this.setLayout(new BorderLayout());
+        
+        doc = jta.getStyledDocument();
+        doc2 = jta2.getStyledDocument();
+        center = new SimpleAttributeSet();
+        left = new SimpleAttributeSet();
+        StyleConstants.setAlignment(center, StyleConstants.ALIGN_CENTER);
+        StyleConstants.setAlignment(left, StyleConstants.ALIGN_LEFT);
+        try{
+            int length = doc.getLength();
+            doc.remove(0, doc.getLength());
+            doc.insertString(doc.getLength(), "--Selected Equipment--", null);
+            doc.setParagraphAttributes(length+1, 1, center, false);
+            
+            length = doc2.getLength();
+            doc2.remove(0, doc2.getLength());
+            doc2.insertString(doc2.getLength(), "Select an item to begin", null);
+            doc2.setParagraphAttributes(length+1, 1, left, false);
+        } catch(Exception e) {
+            System.out.println(e);
+        }
+        
+        this.add(jta, BorderLayout.NORTH);
+        this.add(jta2, BorderLayout.CENTER);
+    }
+    
+    public void update(){
+        item = item_list.getItem();
+        if(item_list.getItem() == null){
+        } else {
+            try{
+                int length = doc2.getLength();
+                doc2.remove(0, doc2.getLength());
+                doc2.insertString(doc2.getLength(), item.getInfo(), null);
+                doc2.setParagraphAttributes(length+1, 1, left, false);
+            } catch(Exception e) {
+                System.out.println(e);
+            }
+        }
+    }
+}

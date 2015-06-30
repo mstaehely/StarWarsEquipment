@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=trait\ level
+comment0.target=Trait(int,\ int)
+comment1.params=
+comment1.target=int\ getLevel()
+comment1.text=\r\n\ Returns\ the\ level\ of\ this\ trait.\r\n\ \r\n\ @return\ the\ level\ of\ this\ trait.\r\n
+comment2.params=level
+comment2.target=void\ setLevel(int)
+comment2.text=\r\n\ Changes\ the\ level\ of\ a\ trait.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Returns\ a\ String\ representation\ of\ the\ Trait.\r\n
+numComments=4

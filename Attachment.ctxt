@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=reader
+comment0.target=Attachment(java.util.Scanner)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Attachment.\r\n\ \r\n\ @param\ reader\ the\ Scanner\ used\ to\ pass\ data.\r\n
+comment1.params=type
+comment1.target=void\ setType(java.lang.String)
+comment2.params=reader
+comment2.target=void\ setTraits(java.util.Scanner)
+comment3.params=useable_by
+comment3.target=void\ setUsable(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getType()
+comment4.text=\r\n\ Returns\ the\ type\ of\ equipment\ the\ attachment\ may\ be\ added\ to.\r\n\ \r\n\ @return\ the\ type\ of\ equipment\ the\ attachment\ may\ be\ added\ to.\r\n
+comment5.params=
+comment5.target=java.util.ArrayList\ getTraits()
+comment5.text=\r\n\ Returns\ a\ numerical\ representation\ of\ the\ attachment's\ Traits.\r\n\ \r\n\ @return\ a\ numerical\ array\ representing\ the\ attachment's\ Traits.\r\n
+comment6.params=
+comment6.target=java.lang.String\ getUseable()
+comment6.text=\r\n\ Returns\ the\ specfic\ armor\ or\ weapon\ classes\ the\ attachment\ may\ be\ used\ by.\r\n\ \r\n\ @return\ the\ specific\ armor\ or\ weapon\ classes\ the\ attachment\ may\ be\ used\ by.\r\n
+comment7.params=
+comment7.target=java.lang.String\ getInfo()
+comment7.text=\r\n\ Returns\ a\ String\ representation\ of\ this\ object.\r\n\ \r\n\ @return\ a\ String\ representation\ of\ this\ object.\r\n
+numComments=8

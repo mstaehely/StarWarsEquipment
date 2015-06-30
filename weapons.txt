@@ -1,0 +1,31 @@
+Holdout Blaster	5	4	Short	1	1	200	4	1	Ranged(Light)	Stun setting	pistol, ranged
+Light Blaster Pistol	5	4	Medium	2	1	300	4	1	Ranged(Light)	Stun setting	pistol, ranged
+Blaster Pistol	6	3	Medium	3	1	400	4	1	Ranged(Light)	Stun Setting	pistol, ranged
+Heavy Blaster Pistol	7	3	Medium	3	2	700	6	1	Ranged(Light)	Stun setting	pistol, ranged
+Blaster Carbine	9	3	Medium	4	3	850	5	1	Ranged(Heavy)	Stun setting	carbine, ranged
+Blaster Rifle	9	3	Long	4	4	900	5	1	Ranged(Heavy)	Stun setting	rifle, ranged
+Heavy Blaster Rifle	10	3	Long	4	6	1500	6	1	Ranged(Heavy)	Auto-fire, Cumbersome 3	heavy repeater, ranged
+Light Repeating Blaster	11	3	Long	4	7	2250	7	0	Ranged(Heavy)	Auto-fire, Cumbersome 4, Pierce 1	light repeater, ranged
+Heavy Repeating Blaster	15	2	Long	4	9	6000	8	0	Gunnery	Auto-fire, Cumbersome 5, Pierce 2, Vicious 1	heavy rifle, ranged
+Bowcaster	10	3	Medium	2	5	1250	7	1	Ranged(Heavy)	Cumbersome 3, Knockdown	bowcaster, ranged
+Ionization Blaster	10	5	Short	3	3	250	3	1	Ranged(Light)	Disorient 5, Stun damage (Droid only)	pistol, ranged
+Disruptor Pistol	10	2	Short	2	2	3000	6	0	Ranged(Light)	Vicious 4	disruptor, ranged
+Disruptor Rifle	10	2	Long	4	5	5000	6	0	Ranged(Heavy)	Cumbersome 2, Vicious 5	disruptor, ranged
+Slugthrower Pistol	4	5	Short	0	1	100	3	1	Ranged(Light)	\N	slugthrower, ranged
+Slugthrower Rifle	7	5	Medium	1	5	250	3	1	Ranged(Heavy)	Cumbersome 2	slugthrower, ranged
+Bola/Net	2	\N	Short	2	1/3	20	2	1	Ranged(Light)	Ensnare 3, Knockdown, Limited Ammo 1	thrown
+Flame Projector	8	2	Short	2	6	1000	6	1	Ranged(Heavy)	Burn 3, Blast 8	flamethrower, ranged
+Missile Tube	20	2	Extreme	4	7	7500	8	0	Gunnery	Blast 10, Cumbersome 3, Guided 3, Breach 1, Prepare 1, Limited Ammo 6	missile, ranged
+Frag Grenade	8	4	Short	0	1	50	5	1	Ranged(Light)	Blast 6, Limited Ammo 1	thrown, explosive
+Stun Grenade	8	\N	Short	0	1	75	4	1	Ranged(Light)	Disorient 3, Stun Damage, Blast 8, Limited Ammo 1	thrown, explosive
+Thermal Detonator	20	2	Short	0	1	2000	8	0	Ranged(Light)	Blast 15, Breach 1, Vicious 4, Limited Ammo 1	thrown, explosive
+Brass Knuckles	1	4	Engaged	0	1	25	0	1	Brawl	Disorient 3	blunt, melee
+Shock Gloves	0	5	Engaged	1	0	300	2	1	Brawl	Stun 3	blunt, melee
+Combat Knife	1	3	Engaged	0	1	25	1	1	Melee	\N	edged, melee
+Gaffi Stick	2	3	Engaged	0	3	100	2	1	Melee	Defensive 1, Disorient 3	blunt, edged, melee
+Force Pike	3	2	Engaged	3	3	500	4	1	Melee	Pierce 2, Stun setting	blunt, melee
+Lightsaber	10	1	Engaged	0	1	10000	10	0	Lightsaber	Breach 1, Sunder, Vicious 2	lightsaber, melee
+Truncheon	2	5	Engaged	0	2	15	1	1	Melee	Disorient 2	blunt, melee
+Vibro-ax	3	2	Engaged	3	4	750	5	1	Melee	Pierce 2, Sunder, Vicious 3	edged, melee
+Vibroknife	1	2	Engaged	2	1	250	3	1	Melee	Pierce 2, Vicious 1	edged, melee
+Vibrosword	2	2	Engaged	3	3	750	5	1	Melee	Pierce 2, Vicious 1, Defensive 1	edged, melee

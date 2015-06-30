@@ -1,0 +1,30 @@
+Augmented Spin Barrel	weapon	2	1750	4	1	rifle, heavyrifle
+Balanced Hilt	weapon	2	1500	5	1	melee
+Blaster Actuating Module	weapon	1	500	4	1	pistol
+Bipod Mount	weapon	1	100	1	1	rifle, carbine, lightrepeater
+Bowcaster Automatic Re-cocker	weapon	1	500	3	1	bowcaster
+Bowcaster Accelerator Enhancement	weapon	1	250	4	1	bowcaster
+Filed Front Sight	weapon	1	25	0	1	pistol
+Forearm Grip	weapon	1	250	1	1	rifle, carbine
+Marksman Barrel	weapon	2	1200	4	1	rifle
+Mono-molecular Edge	weapon	1	1000	5	1	edged
+Multi-optic Sight	weapon	1	2000	3	1	ranged	
+Serrated Edge	weapon	1	50	1	1	edged
+Shortened Barrel	weapon	1	250	4	1	pistol
+Spread Barrel	weapon	2	1725	4	1	rifle, carbine
+Superior Weapon Customization	weapon	1	5000	6	1	any
+Telescopic Optical Sight	weapon	1	250	1	1	pistol, rifle, heavyrifle, lightrepeater, heavyrepeater, bowcaster, missile, slugthrower
+Tripod Mount	weapon	2	250	3	1	lightrepeater, heavyrepeater, missile
+Under-Barrel Grenade Launcher	weapon	2	2000	5	0	rifle, heavyrifle
+Under-Barrel Flame Projector	weapon	2	3000	5	0	rifle, heavyrifle
+Weapon Sling	weapon	1	100	0	1	carbine, rifle, heavyrifle, light repeater
+Weapon Harness	weapon	2	500	2	1	carbine, rifle, heavyrifle, light repeater, heavyrepeater, missile
+Weighted Head	weapon	2	250	3	1	blunt
+Cortosis Weave	armor	2	10000	8	1	any
+Enhanced Optics Suite	armor	1	1750	3	1	any
+Heating System	armor	1	1000	3	1	full-body
+Optical Camouflage System	armor	2	5500	6	1	any
+Strength Enhancing System	armor	2	550	4	1	full-body
+Superior Armor Customization	armor	1	5000	6	1	any
+Thermal Shielding System	armor	1	1000	3	1	full-body
+Vacuum Sealed	armor	1	1000	3	1	full-body

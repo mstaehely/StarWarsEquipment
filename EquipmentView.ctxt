@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=item_list
+comment0.target=EquipmentView(ItemList)
+comment0.text=\r\n\ Constructs\ a\ viewer\ for\ the\ selected\ item's\ information.\r\n\ \r\n\ @param\ item_list\ the\ ItemList\ object\ this\ is\ to\ be\ registered\ with.\r\n
+comment1.params=
+comment1.target=void\ update()
+comment1.text=\r\n\ Updates\ the\ panel.\r\n
+numComments=2

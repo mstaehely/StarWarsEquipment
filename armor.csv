@@ -1,0 +1,14 @@
+Type,Name,Encumbrance,Cost,Rarity,Restricted,Soak Value,Defense,Hard Points,Full-body,Special
+a,A/KT Shockrider Crash Suit,2,3000,3,0,2,0,1,0,-1 Strain from vehicle Critical Hits. -1 to Burn.
+a,A/KT Wing Commander Armored Flight Suit,3,1500,6,0,1,1,1,1,-1 Strain from vehicle Critical Hits. -1 to Burn. Temporary vacuum suit.
+a,Adverse Environment Gear,2,500,1,0,1,0,1,0,
+a,Armored Clothing,3,1000,6,0,1,1,1,0,
+a,Caballerin-Series Riding Tack,2,250,4,0,0,0,0,0,Restricted to beasts.
+a,Capari-Series Padded Beast Armor,4,2500,5,0,2,0,0,0,Restricted to beasts.
+a,Destri-Series Laminate Beast Armor,7,8500,7,0,4,0,1,0,Restricted to beasts. -1 to Agility.
+a,H-Series Megafauna Carriage,5,5500,7,0,0,1,2,0,Restricted to Silhouette 3/Brawn 5. +500 credits for non-quadrupeds. Can be mounted with up to 2 Gunnery or vehicle-scale weapons.
+a,Heavy Battle Armor,6,5000,7,1,2,1,4,1,
+a,Heavy Clothing,1,50,0,0,1,0,0,0,
+a,Laminate,4,2500,5,0,2,0,3,1,
+a,Padded Armor,2,500,1,0,2,0,0,0,
+a,Personal Deflector Shield,3,10000,8,0,0,2,0,0,

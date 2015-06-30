@@ -1,0 +1,50 @@
+Type,Name,Encumbrance,Cost,Rarity,Restricted,Damage,Critical Value,Range,Hard Points,Skill,Special,Accuracy,Auto-Fire,Breach,Blast,Burn,Concussive,Cumbersome,Defensive,Deflection,Disorient,Ensnare,Guided,Knockdown,Inaccurate,Inferior,Ion,Limited Ammo,Linked,Pierce,Prepare,Slow-Firing,Stun,Stun Damage,Sunder,Superior,Tractor,Vicious,Cortosis,Critical Rating,Damage,Encumbrance,Weapon Type
+w,ACP Array Gun,3,890,6,0,6,3,Short,3,Ranged(Heavy),Stun setting,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,rifle ranged
+w,Anti-Personnel Mine,3,850,6,1,12,3,Engaged,0,Mechanics,,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,mine explosive
+w,Anti-Vehicle Mine,4,1400,6,1,25,2,Engaged,0,Mechanics,Triggered by vehicles or repulsor lifts,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,mine explosive
+w,Armor-Piercing Grenade,1,100,6,0,13,3,Short,0,Ranged(Light),,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,thrown explosive
+w,Blaster Carbine,3,850,5,0,9,3,Medium,4,Ranged(Heavy),Stun setting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,carbine ranged
+w,Blaster Pistol,1,400,4,0,6,3,Medium,3,Ranged(Light),Stun setting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,pistol ranged
+w,Blaster Rifle,4,900,5,0,9,3,Long,4,Ranged(Heavy),Stun setting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,rifle ranged
+w,Bola/Net,0,20,2,0,2,0,Short,2,Ranged(Light),,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,thrown
+w,Bowcaster,5,1250,7,0,10,3,Medium,2,Ranged(Heavy),,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bowcaster ranged
+w,Brass Knuckles,1,25,0,0,1,4,Engaged,0,Brawl,,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,blunt melee
+w,Combat Knife,1,25,1,0,1,3,Engaged,0,Melee,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,edged melee
+w,DH-X Heavy Blaster Rifle,7,1900,6,0,10,3,Long,4,Ranged(Heavy),,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,heavyrifle ranged
+w,Disruptor Pistol,2,3000,6,1,10,2,Short,2,Ranged(Light),,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,disruptor ranged
+w,Disruptor Rifle,5,5000,6,1,10,2,Long,4,Ranged(Heavy),,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,disruptor ranged
+w,DL-7H Heavy Blaster Pistol,2,850,6,1,8,3,Medium,2,Ranged(Light),Out of Ammo (2 Threat),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,pistol ranged
+w,DR-45 Dragoon,1,1900,6,0,8,3,Medium,3,Ranged(Light),Stun setting; Switch to Heavy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,pistol ranged
+w,E5 Blaster Carbine,3,550,3,0,9,3,Medium,4,Ranged(Heavy),Stun setting; Overheats (3 Threat/1 Despair; Sunder),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,carbine ranged
+w,Flame Projector,6,1000,6,0,8,2,Short,2,Ranged(Heavy),,0,0,0,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,flamethrower ranged
+w,Force Pike,3,500,4,0,3,2,Engaged,3,Melee,Stun setting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,blunt melee
+w,Frag Grenade,1,50,5,0,8,4,Short,0,Ranged(Light),,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,thrown explosive
+w,Gaffi Stick,3,100,2,0,2,3,Engaged,0,Melee,,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,blunt edged melee
+w,Heavy Blaster Pistol,2,700,6,0,7,3,Medium,3,Ranged(Light),Stun setting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,pistol ranged
+w,Heavy Blaster Rifle,6,1500,6,0,10,3,Long,4,Ranged(Heavy),,0,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,heavyrepeater ranged
+w,Heavy Repeating Blaster,9,6000,8,1,15,2,Long,4,Gunnery,,0,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,heavyrifle ranged
+w,HH-50 Heavy Blaster Pistol,3,1300,7,0,7,3,Short,2,Ranged(Light),Stun setting; (2 Threat; Out of ammo; 3 Threat/1 Despair Overheat; Sunder),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,pistol ranged
+w,HOB Heavy Repeating Blaster,10,6500,8,1,15,3,Extreme,4,Gunnery,Tripod included; 2 maneuvers to set up gun; 4 with tripod,0,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,heavyrepeater ranged
+w,Holdout Blaster,1,200,4,0,5,4,Short,1,Ranged(Light),Stun setting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,pistol ranged
+w,Ionization Blaster,3,250,3,0,10,5,Short,3,Ranged(Light),Stun damage (Droid only),0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,pistol ranged
+w,IR-5 Blaster Pistol,2,750,6,1,5,3,Medium,2,Ranged(Light),,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,pistol ranged
+w,Light Blaster Pistol,1,300,4,0,5,4,Medium,2,Ranged(Light),Stun setting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,pistol ranged
+w,Light Repeating Blaster,7,2250,7,1,11,3,Long,4,Ranged(Heavy),,0,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,lightrepeater ranged
+w,Lightsaber,1,10000,10,1,10,1,Engaged,0,Lightsaber,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,lightsaber melee
+w,Longeing Whip,3,600,4,0,1,5,Short,1,Melee,Stun damage,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,melee
+w,Missile Tube,7,7500,8,1,20,2,Extreme,4,Gunnery,,0,0,1,10,0,0,3,0,0,0,0,3,0,0,0,0,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,missile ranged
+w,Model 44 Blaster Pistol,1,500,4,0,6,3,Medium,4,Ranged(Light),Stun setting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,pistol ranged
+w,Model 80 Blaster Pistol,2,550,5,0,6,2,Medium,3,Ranged(Light),Stun setting; Cannot Quick Draw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,pistol ranged
+w,OK-98 Blaster Carbine,4,1100,5,0,9,3,Medium,3,Ranged(Heavy),Stun setting; Extra Clip; Modify for +2 damage; Overheat(1 Despair explodes; one hit on user),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,carbine ranged
+w,SE-14r Light Repeating Blaster,2,1000,6,1,6,3,Medium,3,Ranged(Light),Stun setting; Out of Ammo (3 Threat),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,pistol ranged
+w,Shock Gloves,0,300,2,0,0,5,Engaged,1,Brawl,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,blunt melee
+w,Slugthrower Pistol,1,100,3,0,4,5,Short,0,Ranged(Light),,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,slugthrower ranged
+w,Slugthrower Rifle,5,250,3,0,7,5,Medium,1,Ranged(Heavy),,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,slugthrower ranged
+w,SoroSuub Persuader,4,1000,4,0,2,4,Engaged,2,Melee,Stun setting,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,melee
+w,Stun Grenade,1,75,4,0,8,0,Short,0,Ranged(Light),Stun damage,0,0,0,8,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,thrown explosive
+w,Thermal Detonator,1,2000,8,1,20,2,Short,0,Ranged(Light),,0,0,1,15,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,thrown explosive
+w,Truncheon,2,15,1,0,2,5,Engaged,0,Melee,,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,blunt melee
+w,Vibro-ax,4,750,5,0,3,2,Engaged,3,Melee,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,3,0,0,0,0,edged melee
+w,Vibroknife,1,250,3,0,1,2,Engaged,2,Melee,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,edged melee
+w,Vibrosword,3,750,5,0,2,2,Engaged,3,Melee,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,edged melee
+w,VX Sidewinder Repeating Blaster,8,3350,7,1,12,3,Long,4,Gunnery,Bipod included,0,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,lightrepeater ranged

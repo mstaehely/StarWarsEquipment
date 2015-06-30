@@ -1,0 +1,82 @@
+weapon
+Heavy Blaster Rifle
+6 1500 6 false 10 3 4
+Ranged(Heavy)
+2
+Auto-fire
+Cumbersome 3
+weapon
+Holdout Blaster
+1 200 4 false 5 4 1
+Ranged(Light)
+1
+Stun setting
+weapon
+Light Blaster Pistol
+1 300 4 false 5 4 2
+Ranged(Light)
+1
+Stun setting
+weapon
+Blaster Pistol
+1 400 4 false 6 3 3
+Ranged(Light)
+1
+Stun setting
+weapon
+Heavy Blaster Pistol
+2 700 6 false 7 3 3
+Ranged(Light)
+1
+Stun setting
+weapon
+Blaster Carbine
+3 850 5 false 9 3 4
+Ranged(Heavy)
+1
+Stun setting
+
+weapon
+Light Repeating Blaster
+7 2250 7 true 11 3 4
+Ranged(Heavy)
+3
+Auto-fire
+Cumbersome 4
+Pierce 1
+weapon
+Heavy Repeating Blaster
+9 6000 8 true 15  2 4
+Gunnery
+4
+Auto-fire
+Cumbersome 5
+Pierce 2
+Vicious 1
+weapon
+Bowcaster
+5 1250 7 false 10 3 2
+Ranged(Heavy)
+2
+Cumbersome 3
+Knockdown
+weapon
+Ionization Blaster
+3 250 3 false 10 5 3
+Ranged(Light)
+2
+Disorient 5
+Stun Damage (Droid only)
+weapon
+Disruptor Pistol
+2 3000 6 true 10 2 2
+2
+Ranged(Light)
+Vicious 4
+weapon
+Disruptor Rifle
+5 5000 6 true 10 2 4
+Ranged(Heavy)
+2
+Cumbersome 2
+Vicious 5

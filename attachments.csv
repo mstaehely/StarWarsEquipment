@@ -1,0 +1,31 @@
+Type,Name,Encumbrance,Cost,Rarity,Restricted,Attachment Type,Hard Point Cost,Accuracy,Auto-Fire,Breach,Burn,Blast,Concussive,Cumbersome,Defensive,Deflection,Disorient,Ensnare,Guided,Knockdown,Inaccurate,Inferior,Ion,Limited Ammo,Linked,Pierce,Prepare,Slow-Firing,Stun,Stun Damage,Sunder,Superior,Tractor,Vicious,Cortosis,Critical Rating,Damage,Encumbrance,Special,Useable By
+m,Augmented Spin Barrel,0,1750,4,0,weapon,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"+1 Difficulty to Mechanics checks to maintain. Mods: 2 Damage 1, Accurate 1, Pierce 1","rifle, heavyrifle"
+m,Balanced Hilt,0,1500,5,0,weapon,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mods: Accurate 1, Encumbrance -1",melee
+m,Bipod Mount,0,100,1,0,weapon,1,0,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,"rifle, carbine, lightrepeater"
+m,Blaster Actuating Module,0,500,4,0,weapon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Mods: 2 Damage 1, 2 Pierce 1",pistol
+m,Bowcaster Accelerator Enhancement,0,250,4,0,weapon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Cannot be purchased. Average Mechanics check to craft. Mods: 2 Damage 1, 2 Pierce 1",bowcaster
+m,Bowcaster Automatic Re-cocker,0,500,3,0,weapon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,Cannot be purchased. Average Mechanics check to craft. Mods: Auto-fire,bowcaster
+m,Cortosis Weave,0,10000,8,0,armor,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,any
+m,Enhanced Optics Suite,0,1750,3,0,armor,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"-2 Black dice to Perception, Surveillance, Vigilance, and combat skill checks due to darkness, smoke, or other environmental vision obsucring effects. Mods: 1 Skill (Vigilance)",any
+m,Filed Front Sight,0,25,0,0,weapon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grants Quick Draw Talent. +1 Difficulty to hit targets beyond Short range. Mods: -1 difficulty to conceal.,pistol
+m,Forearm Grip,0,250,1,0,weapon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Reduce penalty to fire while engaged to 1 extra die. Mods: Grant Point Blank 1 Talent, Accurate 1","rifle, carbine"
+m,Heating System,0,1000,3,0,armor,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1 Difficulty to Resistance checks due to extreme cold. -2 Black dice to checks due to extreme cold.,full-body
+m,Marksman Barrel,0,1200,4,0,weapon,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"+1 Range. Mods: 2 Accurate 1, Grants Sniper Shot Talent",rifle
+m,Mono-molecular Edge,0,1000,5,0,weapon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,Mods: 2 Pierce 1,edged
+m,Multi-optic Sight,0,2000,3,0,weapon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"-2 Black dice to combat checks with this weapon due to smoke, darkness, or other environmental vision obscuring effects. Mods: 2 Skill (Perception)",ranged
+m,Optical Camouflage System,0,5500,6,0,armor,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Upgrades Stealth checks twice while worn. Mods: Grants Master of Shadows Talent, 1 Skill (Stealth)",any
+m,Serrated Edge,0,50,1,0,weapon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,edged
+m,Shortened Barrel,0,250,4,0,weapon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"-1 Difficulty to conceal. Reduce range by 1 to minimum of Short, +1 Black die if already Short. Mods: Grants Quick Draw Talent",pistol
+m,Spread Barrel,0,1725,4,0,weapon,2,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Reduce range by one to minimum of Engaged. Mods: 2 Blast 1,"rifle, carbine"
+m,Strength Enhancing System,0,550,4,0,armor,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"+1 Brawn while worn. Mods: 2 Skill (Athletics), 2 Grants Brace Talent",full-body
+m,Superior Armor Customization,0,5000,6,0,armor,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,any
+m,Superior Weapon Customization,0,5000,6,0,weapon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,any
+m,Telescopic Optical Sight,0,250,1,0,weapon,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1 Difficulty to Long and Extreme range combat checks.,"pistol, rifle, heavyrifle, lightrepeater, heavyrepeater, bowcaster, missile, slugthrower"
+m,Thermal Shielding System,0,1000,3,0,armor,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1 Difficulty to Resistance checks due to extreme heat. -2 Black dice to checks due to extreme heat.,full-body
+m,Tripod Mount,0,250,3,0,weapon,2,0,0,0,0,0,0,-3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,May not move after setting up. Mods: 2 Cumbersome -1,"lightrepeater, heavyrepeater, missile"
+m,Under-Barrel Flame Projector,0,3000,5,1,weapon,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Adds following: Ranged(Heavy) Dam 10, Crit 2, Short, Burn 5, Blast 2.","rifle, heavyrifle"
+m,Under-Barrel Grenade Launcher,0,2000,5,1,weapon,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,"Allows weapon to fire grenades using Ranged(Heavy). Medium, Limited Ammo 1. Mods: 5 Limted Ammo 1","rifle, heavyrifle"
+m,Vacuum Sealed,0,1000,3,0,armor,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Allows user to ignore vacuum or poisonous atmosphere for up to 10 minutes.,full-body
+m,Weapon Harness,0,500,2,0,weapon,2,0,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Mods: Grants Brace Talent,"carbine, rifle, heavyrifle, light repeater, heavyrepeater, missile"
+m,Weapon Sling,0,100,0,0,weapon,1,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Mods: Grants Quick Draw Talent,"carbine, rifle, heavyrifle, light repeater"
+m,Weighted Head,0,250,3,0,weapon,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Mods: 1 Damage 1, 1 Concussive 1",blunt

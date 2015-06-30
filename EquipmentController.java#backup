@@ -1,0 +1,56 @@
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+import javax.swing.border.*;
+import java.util.*;
+
+/**
+ * Controller object for equipment.
+ * 
+ * @author Matthew Staehely
+ * @version 1
+ */
+
+public class EquipmentController extends JPanel{
+    private ItemList item_list;
+    private ItemView itemPane;
+    private EquipmentView statPane;
+    private ModView modPane;
+//     private ModTextView modText;
+    private JSplitPane splitPane;
+    private JSeparator separator;
+    private JPanel panel, panel2;
+    private Border loweredBevel;
+    
+    @SuppressWarnings("unchecked")
+    /**
+     * Constructs an EquipmentController object.
+     * 
+     * @param item_list the ItemList this Controller controls.
+     */
+    public EquipmentController(ItemList item_list){
+        this.item_list = item_list;
+        itemPane = new ItemView(item_list);
+        statPane = new EquipmentView(item_list);
+        modPane = new ModView(item_list);
+//         modText = new ModTextView(item_list);
+        loweredBevel = BorderFactory.createLoweredBevelBorder();
+        this.setLayout(new BorderLayout());
+        
+        panel = new JPanel();
+        panel.setLayout(new BorderLayout());
+        panel.setPreferredSize(new Dimension(400, 250));
+        panel.add(itemPane, BorderLayout.NORTH);
+        panel.add(statPane);
+        
+        panel2 = new JPanel();
+        panel2.setBorder(loweredBevel);
+        panel2.setLayout(new BorderLayout());
+        panel2.setPreferredSize(new Dimension(400, 250));
+        panel2.add(modPane, BorderLayout.NORTH);
+//         panel2.add(modText, BorderLayout.CENTER);
+
+        this.add(panel, BorderLayout.NORTH);
+        this.add(panel2, BorderLayout.SOUTH);
+    }
+}

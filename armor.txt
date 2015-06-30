@@ -1,0 +1,7 @@
+Adverse Environment Gear	1	0	1	2	500	1	1	1
+Armored Clothing	1	1	1	3	1000	6	1	1
+Heavy Battle Armor	2	1	4	6	5000	7	0	0
+Heavy Clothing	1	0	0	1	50	0	1	1
+Laminate	2	0	3	4	2500	5	1	0
+Personal Deflector Shield	0	2	0	3	10000	8	1	1
+Padded Armor	2	0	0	2	500	1	1	1
