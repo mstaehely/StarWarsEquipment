@@ -1,6 +1,7 @@
 #BlueJ class context
 comment0.params=item_list
 comment0.target=ModView(ItemList)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ModView.\r\n
 comment1.params=
 comment1.target=void\ update()
 numComments=2

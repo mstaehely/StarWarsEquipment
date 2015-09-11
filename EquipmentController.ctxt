@@ -1,4 +1,5 @@
 #BlueJ class context
 comment0.params=item_list
 comment0.target=EquipmentController(ItemList)
+comment0.text=\r\n\ Constructs\ an\ EquipmentController\ object.\r\n\ \r\n\ @param\ item_list\ the\ ItemList\ this\ Controller\ controls.\r\n
 numComments=1

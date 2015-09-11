@@ -48,7 +48,10 @@ public class ModView extends JPanel implements EquipmentListener{
                         useable = a.getUseable();
                         for(String s : type){
                             if(useable.contains(s)){
-                                add = true;
+                            	if((useable.contains("noncumbersome") && weapon.getTraits().get(6).getLevel() != 0)){
+                            	} else {
+                            		add = true;
+                            	}
                             }
                             if(weapon.getHardPoints() < a.getHardPoints()){
                                 add = false;
